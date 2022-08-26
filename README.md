@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Herz721
 - 👀 I’m interested in computer science and software engineering
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently seeking a software engineer position. Solid software engineer with strong programming and analytical skills. Has a wide range of software development project experience, including office-automation system design with Python and full-stack web applications development with Angular and NodeJS.
 - 📫 How to reach me: liuhaozhe2509@gmail.com
 
 <!---
